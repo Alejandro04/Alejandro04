@@ -1,7 +1,5 @@
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
-<p align="left"> <a href="https://twitter.com/alejandroroa04" target="blank"><img src="https://img.shields.io/twitter/follow/alejandroroa04?logo=twitter&style=for-the-badge" alt="alejandroroa04" /></a> </p>
-
 - 📝 I regularly write articles on [https://medium.com/@alejandroroa](https://medium.com/@alejandroroa)
 
 - 💬 Ask me about **Javascript, Typescript, Angular, React**
