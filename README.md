@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Frontend Engineer</h3>
+<h3 align="center">Frontend Engineer</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@alejandroroa](https://medium.com/@alejandroroa)
 
