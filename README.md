@@ -2,7 +2,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@alejandroroa](https://medium.com/@alejandroroa)
 
-- 💬 Ask me about **Javascript, Typescript, Angular, React, Next.js, Node.js and AWS**
+- 💬 Ask me about **Javascript, Typescript, Angular, React, Next.js, Node.js, Java, Spring Boot and AWS**
 
 - 📫 How to reach me **alejodev04@gmail.com**
 
