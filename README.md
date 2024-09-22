@@ -2,7 +2,7 @@
 
 - 📝 I writed posts in medium [https://medium.com/@alejandroroa](https://medium.com/@alejandroroa)
 
-- 💬 Ask me about **Javascript, Typescript, Angular, React, Next.js, Svelte, Vue, Node.js, Java, Spring Boot, Docker, Tests and AWS**
+- 💬 Ask me about **Javascript, Typescript, Angular, React, Next.js, Svelte, Vue, Node.js, Java, Spring Boot, Docker, Tests, RabbitMQ and AWS**
 
 - 📫 How to reach me **alejodev04@gmail.com**
 
