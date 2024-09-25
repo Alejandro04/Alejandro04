@@ -1,4 +1,4 @@
-<h3 align="center">Frontend Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 📝 I writed posts in medium [https://medium.com/@alejandroroa](https://medium.com/@alejandroroa)
 
