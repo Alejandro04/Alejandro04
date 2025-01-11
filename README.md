@@ -2,7 +2,7 @@
 
 - 📝 I writed posts in medium [https://medium.com/@alejandroroa](https://medium.com/@alejandroroa)
 
-- 💬 Ask me about **Javascript, Typescript, Angular, React, Next.js, Svelte, Vue, Node.js, Java, Spring Boot, Php, Docker, Tests, RabbitMQ, SQL, AWS and CI/CD**
+- 💬 Ask me about **Javascript, Typescript, Angular, React, Next.js, Svelte, Vue, Node.js, Java, Spring Boot, Python, Docker, Tests, RabbitMQ, SQL, AWS and CI/CD**
 
 - 📫 How to reach me **alejodev04@gmail.com**
 
@@ -20,7 +20,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandro04&show_icons=true&locale=en&layout=compact" alt="alejandro04" /></p>
